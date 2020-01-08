@@ -1,0 +1,174 @@
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\Assignment2-CoryWasif.dll.config
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\Assignment2-CoryWasif.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\Assignment2-CoryWasif.pdb
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\csc.exe
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\csc.exe.config
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\csc.rsp
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\csi.exe
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\csi.exe.config
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\csi.rsp
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.AppContext.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Console.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.IO.Compression.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Security.Claims.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.ValueTuple.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\vbc.exe
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\vbc.exe.config
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\vbc.rsp
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\VBCSCompiler.exe
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\obj\Debug\Assignment2-CoryWasif.csprojAssemblyReference.cache
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\obj\Debug\Assignment2-CoryWasif.csproj.CoreCompileInputs.cache
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\obj\Debug\Assignment2-CoryWasif.csproj.CopyComplete
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\obj\Debug\Assignment2-CoryWasif.dll
+C:\Users\Cory\Desktop\Sheridan Sem 4\.NET and C#\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\obj\Debug\Assignment2-CoryWasif.pdb
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\Assignment2-CoryWasif.dll.config
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\Assignment2-CoryWasif.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\Assignment2-CoryWasif.pdb
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\csc.exe
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\csc.exe.config
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\csc.rsp
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\csi.exe
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\csi.exe.config
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\csi.rsp
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.AppContext.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Collections.Immutable.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Console.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Diagnostics.Process.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.IO.Compression.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.IO.FileSystem.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.IO.Pipes.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Reflection.Metadata.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Security.AccessControl.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Security.Claims.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Security.Principal.Windows.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Threading.Thread.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.ValueTuple.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Xml.XmlDocument.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Xml.XPath.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\vbc.exe
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\vbc.exe.config
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\vbc.rsp
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\VBCSCompiler.exe
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\VBCSCompiler.exe.config
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\obj\Debug\Assignment2-CoryWasif.csprojAssemblyReference.cache
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\obj\Debug\Assignment2-CoryWasif.csproj.CoreCompileInputs.cache
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\obj\Debug\Assignment2-CoryWasif.csproj.CopyComplete
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\obj\Debug\Assignment2-CoryWasif.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\Assignments\Assignment2\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\obj\Debug\Assignment2-CoryWasif.pdb
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\Assignment2-CoryWasif.dll.config
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\Assignment2-CoryWasif.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\Assignment2-CoryWasif.pdb
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\csc.exe
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\csc.exe.config
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\csc.rsp
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\csi.exe
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\csi.exe.config
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\csi.rsp
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.AppContext.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Collections.Immutable.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Console.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Diagnostics.Process.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.IO.Compression.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.IO.FileSystem.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.IO.Pipes.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Reflection.Metadata.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Security.AccessControl.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Security.Claims.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Security.Principal.Windows.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Threading.Thread.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.ValueTuple.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Xml.XmlDocument.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Xml.XPath.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\vbc.exe
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\vbc.exe.config
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\vbc.rsp
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\VBCSCompiler.exe
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\roslyn\VBCSCompiler.exe.config
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\obj\Debug\Assignment2-CoryWasif.csprojAssemblyReference.cache
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\obj\Debug\Assignment2-CoryWasif.csproj.CoreCompileInputs.cache
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\obj\Debug\Assignment2-CoryWasif.csproj.CopyComplete
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\obj\Debug\Assignment2-CoryWasif.dll
+E:\++SHERIDAN COLLEGE\SEMESTER 4\NET and C#\BitBucket\Assignment2CSharp\Assignment 2\Assignment 2\Assignment2-CoryWasif\Assignment2-CoryWasif\obj\Debug\Assignment2-CoryWasif.pdb
